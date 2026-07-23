@@ -1,8 +1,3 @@
-#TODO:
-# add slope and aspect rasters
-# add imagine query for heatmap
-# add nearest distances
-
 # Load packages ----
 library(shiny)
 library(leaflet)
