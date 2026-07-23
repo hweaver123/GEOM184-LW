@@ -1,16 +1,7 @@
-#################################################################
-##           Practical 6 for GEOM184 - Open Source GIS         ##
-##                      14/11/2025                             ##
-##                  Creating a ShinyApp                        ##
-##                         App.R                               ##
-##        code by Diego Panici (d.panici@exeter.ac.uk)         ##
-#################################################################
-
 #TODO:
 # add slope and aspect rasters
 # add imagine query for heatmap
 # add nearest distances
-
 
 # Load packages ----
 library(shiny)
